@@ -31,7 +31,8 @@ th {
 			Book
 		</button>
 		<br>
-		<table class="table table-striped table-bordered">
+		<div class="table-responsive">
+		<table class="table table-bordered">
 			<thead>
 				<tr>
 					<th width="4%">S.N</th>
@@ -74,7 +75,7 @@ th {
 				</c:forEach>
 			</tbody>
 		</table>
-
+		</div>
 	</div>
 
 	<!--  It is advised to put the <script> tags at the end of the document body so they don't block rendering of the page -->
