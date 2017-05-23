@@ -88,8 +88,6 @@ th {
 	<script type="text/javascript"
 		src='<c:url value="/resources/lib/bootstrap-3.3.6/js/bootstrap.min.js"/>'></script>
 	<script type="text/javascript"
-		src='<c:url value="/resources/lib/bootstrap-3.3.6/js/bootstrap.min.js"/>'></script>
-	<script type="text/javascript"
 		src='<c:url value="/resources/lib/bootstrap-3.3.6/js/jquery.popconfirm.js"/>'></script>
 	<script type="text/javascript"
 		src='<c:url value="/resources/js/js-for-listBooks.js"/>'></script>
